@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuenBrown
+- 👋 Hi, I’m @TheQuenBrown
 - 👀 I’m interested in ...front-end developement career path
 - 🌱 I’m currently relearning ... html,css and javascript 
 - 💞️ I’m looking to collaborate on ... junior developers 
